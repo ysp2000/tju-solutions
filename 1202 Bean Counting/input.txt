@@ -1,0 +1,6 @@
+aadddddddddddddddddddddddffffffffffffffffwwwwwwwwwwwwccccalalala
+4
+A a:6,c:6
+B w:12
+C d:25
+D d:22,c:4,l:3,f:15

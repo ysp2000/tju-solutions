@@ -1,0 +1,17 @@
+8
+abbc..
+a..c..
+axxc..
+..gddd
+..g..e
+..fffe
+
+8
+aa...b
+c..d.b
+cxxd.b
+c..d..
+e...ff
+e.ggg.
+
+0

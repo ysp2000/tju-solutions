@@ -1,0 +1,14 @@
+8 9
+networking os 1
+algorithm os 2
+networking algorithm 3
+han sanguo 4
+sanguo tang 5
+qin tang 6
+qin han 7
+qin sanguo 8
+han tang 9
+3 3
+A B 1
+B C 2
+A C 3

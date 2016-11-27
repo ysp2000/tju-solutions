@@ -1,0 +1,14 @@
+1
+2
+a
+A
+
+
+2
+3
+ABCD
+BCDFF
+BRCD
+2
+rose
+orchid
